@@ -1,0 +1,20 @@
+.section-search input{
+    padding: 5px !important;
+    font-size: 18px !important;
+    width: 90% !important;
+    border: #f4f4f4 3px solid !important;
+}
+ .slides img {
+    filter: contrast(40%) brightness(55%) !important;
+}
+.card-image img {
+    filter: contrast(40%) brightness(55%) !important;
+}
+
+.section-follow .fa-3x{
+    margin: 10px 15px;
+}
+
+.input-field{
+    color: white !important;
+}
